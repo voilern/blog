@@ -16,10 +16,11 @@ specific font stacks to ensure the greatest OS/browser compatibility.
 
 @import url('https://static.zeoseven.com/zsft/292/main/result.css');
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;700&display=swap');
-@import url('https://cdn.tonycrane.cc/lxgw/lxgwscreen.css');
+@import url('https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.7.0/style.css');
+@import url('https://cdn.staticfile.org/lxgw-wenkai-webfont/1.6.0/style.css');
 
 :root {
-  --font-sans-primary: "LXGW WenKai Screen", "LXGW WenKai", "JetBrains Mono", "Microsoft YaHei", sans-serif;
+  --font-sans-primary: "LXGW WenKai", "JetBrains Mono", "Microsoft YaHei", sans-serif;
   --font-code-primary: "JetBrains Mono", "Fira Code", Consolas, monospace;
   --text-color-primary: #1f1f1f;
   --heading-color-primary: #151515;
@@ -184,7 +185,7 @@ div {
             color: #444;
             font-size: 13px;
             border: 1px solid transparent;
-            font-family: "LXGW WenKai Screen", "LXGW WenKai", "Microsoft YaHei", sans-serif !important;
+            font-family: "LXGW WenKai", "Microsoft YaHei", sans-serif !important;
 
             &:hover {
                 border-bottom-color: #444;
@@ -233,7 +234,7 @@ div {
             }
 
             .widget-title-text {
-                font-family: "LXGW WenKai Screen", "LXGW WenKai", "Microsoft YaHei", sans-serif !important;
+                font-family: "LXGW WenKai", "Microsoft YaHei", sans-serif !important;
             }
         }
 
