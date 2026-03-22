@@ -5,7 +5,7 @@ layout: page
 comments: false
 ---
 
-这里是 voilern 的个人博客。
+这里是 voilern 的个人博客。<del>全站只有 about 页面在更新是否搞错了什么</del>
 
 <details>
 <summary>暂时咕咕的 write-up list</summary>
@@ -47,5 +47,9 @@ comments: false
 | [Unity Sanity - Treasure Chase](https://us-tc.top) | 2025/10 | Celestial \<Catellite> | 6 | 18 |
 | [ZJU Puzzle Hunt 2025](https://2025.zjuph.fun/home) | 2025/11 | Celestial \<Catellite> | 4 | 15 |
 | [LN Hunt](https://ln-hunt.com/) | 2025/12 | Celestial \<Catellite> | 5 | 21 |
+| 第一届“墨阵杯”中文纵横字谜比赛 | 2025/12 | Celestial \<Catellite> | 3 | 2 |
+| [MIT Mystery Hunt 2026](https://puzzmon.world/) | 2026/1 | 喵喵喵 | 89 | 9 |
+| [SECO Puzzle Hunt 2](https://secopuzzle.com/) | 2026/2 | Celestial \<Catellite> | 3 | 12 |
+| [欣年 3](https://thrivingyear.fun/) | 2026/2 | Celestial \<Catellite> | 4 | 9 |
 
 </details>
