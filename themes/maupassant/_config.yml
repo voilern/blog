@@ -105,7 +105,7 @@ icp:                        ## China mainland only, show icp info at the bottom.
 
 giscus:
   enable: true
-  repo: "voilern/voilern.github.io"
+  repo: "voilern/blog"
   repo_id: "R_kgDONaGOgQ"
   category: "Announcements"
   category_id: "DIC_kwDONaGOgc4CoLv9"

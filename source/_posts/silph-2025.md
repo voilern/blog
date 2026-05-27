@@ -94,20 +94,20 @@ Hunt网站： [Silph Puzzle Hunt 2025](https://silphpuzzlehunt.com/)
 
 <center>
 
-<img src="/img/silph-2025/silph-11.png" alt="" />  
+<img src="/img/silph-2025/silph-11.png" alt="" style="width: 60%; height: auto;"/>  
 《最短的吧》
 </center>
 
 <center>
 
-<img src="/img/silph-2025/silph-15.png" alt="" />
+<img src="/img/silph-2025/silph-15.png" alt="" style="width: 60%; height: auto;"/>
 </center>
 
 直到完赛也没做出 Dimmer Wits 的任何一个小题，解析里作者的话感觉十分应景：
 
 <center>
 
-<img src="/img/silph-2025/silph-19.png" alt="" />
+<img src="/img/silph-2025/silph-19.png" alt="" style="width: 80%; height: auto;"/>
 </center>
 
 大概看了一会 Dimmer Wits 感到绝望就去接着建这题的图了，作了一个差不多能看的图之后格物致知突然想到是不是某种状态图，再看节点数发现刚好是 26\*5 = 130，主文本和操作也暗示了古典密码，之后就一路畅通了……吗？结果根据图和密码推理各个节点代表的字母也花了很久很久……用古典密码建图再用纯文本形式呈现出来真是太好的想法了，但这题不建图只通过文本来做几乎不可能吧。以及想起一道类似的题：[Toys' Cafe](https://epilogue.mitmh2024.com/puzzle/toys-cafe)，也很喜欢。
@@ -120,7 +120,7 @@ Hunt网站： [Silph Puzzle Hunt 2025](https://silphpuzzlehunt.com/)
 
 <center>
 
-<img src="/img/silph-2025/silph-16.png" alt="" />
+<img src="/img/silph-2025/silph-16.png" alt="" style="width: 40%; height: auto;"/>
 </center>
 
 ### Dimmer Wits
@@ -135,7 +135,7 @@ Hunt网站： [Silph Puzzle Hunt 2025](https://silphpuzzlehunt.com/)
 
 <center>
 
-<img src="/img/silph-2025/silph-12.png" alt="" />
+<img src="/img/silph-2025/silph-12.png" alt="" style="width: 50%; height: auto;"/>
 </center>
 
 <span class="voilern">voilern</span>：第二天一早准备去赶飞机，想着在飞机上闲着没事不如做没人碰的纸笔，本年度 hunt 生涯个人最高成就之一单刷 LITS 就这么开始了.jpg
@@ -144,11 +144,11 @@ Hunt网站： [Silph Puzzle Hunt 2025](https://silphpuzzlehunt.com/)
 
 总之从飞机做到高铁，从早上十点断断续续做到凌晨一点半，终于把这套题完整做掉了。没想到打 hunt 很少做纸笔的我也会有今天（
 
-做这题那天我们队正在被三座大山卡的动弹不得，我在单刷 LITS，<span class="kagetsu">Kagetsu</span> 就去单刷 Trading Places 了。于是当天我们队只过了两题，是我们两个人一人单刷了一题）一些 fun fact：
+做这题那天我们队正在被三座大山卡的动弹不得，我在单刷 LITS，<span class="kagetsu">Kagetsu</span> 就去单刷 Trading Places 了。于是当天我们队只过了两题，是我们两个人一人单刷了一题）一些 fun stuff：
 
 <center>
 
-<img src="/img/silph-2025/silph-14.png" alt="" />
+<img src="/img/silph-2025/silph-14.png" alt="" style="width: 60%; height: auto;"/>
 </center>
 
 <center>
@@ -158,12 +158,12 @@ Hunt网站： [Silph Puzzle Hunt 2025](https://silphpuzzlehunt.com/)
 
 <center>
 
-<img src="/img/silph-2025/silph-3.png" alt="" />
+<img src="/img/silph-2025/silph-3.png" alt="" style="width: 70%; height: auto;"/>
 </center>
 
 <center>
 
-<img src="/img/silph-2025/silph-17.png" alt="" />  
+<img src="/img/silph-2025/silph-17.png" alt="" style="width: 70%; height: auto;"/>  
 输给 TCG 大神了（
 </center>
 
@@ -173,22 +173,22 @@ Hunt网站： [Silph Puzzle Hunt 2025](https://silphpuzzlehunt.com/)
 
 <center>
 
-<img src="/img/silph-2025/silph-4.png" alt="" />
+<img src="/img/silph-2025/silph-4.png" alt="" style="width: 60%; height: auto;"/>
 </center>
 
 <center>
 
-<img src="/img/silph-2025/silph-7.png" alt="" />
+<img src="/img/silph-2025/silph-7.png" alt="" style="width: 80%; height: auto;"/>
 </center>
 
 <center>
 
-<img src="/img/silph-2025/silph-8.png" alt="" />
+<img src="/img/silph-2025/silph-8.png" alt="" style="width: 80%; height: auto;"/>
 </center>
 
 <center>
 
-<img src="/img/silph-2025/silph-10.png" alt="" />
+<img src="/img/silph-2025/silph-10.png" alt="" style="width: 60%; height: auto;"/>
 </center>
 
 <span class="voilern">voilern</span>：自从把 Trading Places 交给 <span class="kagetsu">Kagetsu</span> 之后腰不酸了腿不疼了觉也睡得好了
@@ -207,7 +207,7 @@ Hunt网站： [Silph Puzzle Hunt 2025](https://silphpuzzlehunt.com/)
 
 <center>
 
-<img src="/img/silph-2025/silph-13.png" alt="" />
+<img src="/img/silph-2025/silph-13.png" alt="" style="width: 50%; height: auto;"/>
 </center>
 
 ### Meta - The Haunted Graveyard
@@ -281,7 +281,7 @@ Hunt网站： [Silph Puzzle Hunt 2025](https://silphpuzzlehunt.com/)
 
 <center>
 
-<img src="/img/silph-2025/silph-2.png" alt="" />
+<img src="/img/silph-2025/silph-2.png" alt="" style="width: 50%; height: auto;"/>
 </center>
 
 然而再次没想到只是个开始。虽然又是数据库查找，但是做完之后仍然不得不佩服出题人的思路
@@ -294,14 +294,14 @@ Hunt网站： [Silph Puzzle Hunt 2025](https://silphpuzzlehunt.com/)
 
 <center>
 
-<img src="/img/silph-2025/silph-5.png" alt="" />
+<img src="/img/silph-2025/silph-5.png" alt="" style="width: 50%; height: auto;"/>
 </center>
 
 <span class="voilern">voilern</span>：tmmt25 final meta 被 <span class="kagetsu">Kagetsu</span> 单刷掉了，这次该我玩了.jpg
 
 <center>
 
-<img src="/img/silph-2025/silph-18.png" alt="" />
+<img src="/img/silph-2025/silph-18.png" alt="" style="width: 50%; height: auto;"/>
 </center>
 
 我说能单刷完这题小游戏部分的就算之前不是 ADHD 之后也得是了）不过依然也是有诀窍的，为了第二步把整个游戏通关了两次，第二次就熟练到一命通关全部了（此处省略一个长达 30 分钟的视频）
@@ -316,7 +316,7 @@ Hunt网站： [Silph Puzzle Hunt 2025](https://silphpuzzlehunt.com/)
 
 <center>
 
-<img src="/img/silph-2025/silph-1.png" alt="" />
+<img src="/img/silph-2025/silph-1.png" alt="" style="width: 60%; height: auto;"/>
 </center>
 
 <span class="voilern">voilern</span>：队友团建这题时正在单刷 Cosmic Squad，直到最后也没参与到。
@@ -345,5 +345,5 @@ Hunt网站： [Silph Puzzle Hunt 2025](https://silphpuzzlehunt.com/)
 
 <center>
 
-<img src="/img/silph-2025/silph-9.png" alt="" />
+<img src="/img/silph-2025/silph-9.png" alt="" style="width: 70%; height: auto;"/>
 </center>
